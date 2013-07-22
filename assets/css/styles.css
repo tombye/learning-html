@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'nta';
+  src: url('../fonts/NTA-Light.woff') format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'nta';
+  src: url('../fonts/NTA-Bold.woff') format('woff');
+  font-weight: bold;
+}
+
+body {
+  font-family: 'nta';
+  font-size: 19px;
+  color: #333;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 27px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 19px;
+}
