@@ -31,3 +31,27 @@ h2 {
 h3 {
   font-size: 19px;
 }
+
+a {
+  color: #2e3191;
+}
+
+a:hover {
+  color: #2e8aca;
+}
+
+article ul {
+  padding-left: 1em;
+}
+
+article li {
+  list-style-image: url(../images/bullet-disc-5px.gif);
+  margin: 0.25em 0;
+  padding-left: 0.3em;
+}
+
+article .example {
+  border-left: 10px solid #EAEDEF;
+  padding-left: 1.5em;
+  margin: 2.5em 0;
+}
